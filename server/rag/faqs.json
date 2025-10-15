@@ -1,0 +1,65 @@
+[
+  {
+    "id": "faq_onboarding_1",
+    "question": "What is the MinT Innovation Portal?",
+    "answer": "The MinT Innovation Portal is a platform for innovators to showcase projects, request funding and certificates, register for events, and collaborate with peers and mentors in Ethiopia.",
+    "category": "portal",
+    "tags": ["about", "overview"]
+  },
+  {
+    "id": "faq_onboarding_2",
+    "question": "How do I become an innovator?",
+    "answer": "Create an account, complete your profile with accurate information, submit a verification request with required documents, and wait for admin approval. Once verified, you can access all features.",
+    "category": "onboarding",
+    "tags": ["account", "verification"]
+  },
+  {
+    "id": "faq_projects_1",
+    "question": "How can I post a project?",
+    "answer": "After logging in, go to Projects and click Create Project. Provide a clear title, description, category, goals, timeline, and any media. Submit for review if required by admins.",
+    "category": "projects",
+    "tags": ["create", "submit"]
+  },
+  {
+    "id": "faq_projects_2",
+    "question": "Can I edit or delete my project?",
+    "answer": "Yes. Open your project detail page and use Edit to update fields or Delete to remove it. Some fields may be locked after approval; contact support if needed.",
+    "category": "projects",
+    "tags": ["edit", "delete"]
+  },
+  {
+    "id": "faq_funding_1",
+    "question": "How do I request funding?",
+    "answer": "Open Requests → Funding Request. Fill out your project details, budget, and justification. Submit and track status in your dashboard. You’ll receive notifications when admins respond.",
+    "category": "funding",
+    "tags": ["request", "budget"]
+  },
+  {
+    "id": "faq_certificate_1",
+    "question": "How do I request a certificate?",
+    "answer": "Go to Requests → Certificate Request. Provide the necessary information and submit. You can track the request status and download the certificate once approved.",
+    "category": "certificate",
+    "tags": ["request", "download"]
+  },
+  {
+    "id": "faq_events_1",
+    "question": "How do I register for events?",
+    "answer": "Open Events, select an event, and click Register. Your registration appears under Applications or your profile. You’ll be notified about updates and schedules.",
+    "category": "events",
+    "tags": ["register", "apply"]
+  },
+  {
+    "id": "faq_account_1",
+    "question": "I forgot my password. What should I do?",
+    "answer": "On the Login page, click Forgot password? Enter your email to receive a secure reset link. Follow the link to set a new password. Links expire in 1 hour for security.",
+    "category": "account",
+    "tags": ["password", "reset"]
+  },
+  {
+    "id": "faq_verification_1",
+    "question": "How does profile verification work?",
+    "answer": "Submit a verification application with required documents. Admins review and may request more info. You’ll see status updates and get a notification when approved or rejected.",
+    "category": "verification",
+    "tags": ["profile", "approval"]
+  }
+]
